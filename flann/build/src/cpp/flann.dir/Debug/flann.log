@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/jurcol/Desktop/flann/src/cpp/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\jurcol\Desktop\flann\build\src\cpp\CMakeFiles\generate.stamp is up-to-date.
+  flann.cpp
+  lz4.c
+  lz4hc.c
+  Generating Code...
+     Creating library C:/Users/jurcol/Desktop/flann/build/lib/Debug/flann.lib and object C:/Users/jurcol/Desktop/flann/build/lib/Debug/flann.exp
+  flann.vcxproj -> C:\Users\jurcol\Desktop\flann\build\lib\Debug\flann.dll
